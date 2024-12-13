@@ -1,5 +1,4 @@
 flake8==6.1.0
 bandit==1.7.5
-git add requirements.txt
-git commit -m "Add requirements.txt file"
-git push
+mypy==0.910
+
